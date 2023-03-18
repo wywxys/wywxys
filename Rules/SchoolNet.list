@@ -1,0 +1,3 @@
+# SchoolNet
+DOMAIN-SUFFIX,edu.cn
+IP-CIDR,6.6.6.6/32,no-resolve
