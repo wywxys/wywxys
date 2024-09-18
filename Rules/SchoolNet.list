@@ -1,3 +1,5 @@
 # SchoolNet
 DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,nju.edu.cn
 IP-CIDR,6.6.6.6/32,no-resolve
+IP-CIDR,219.219.115.44/32,no-resolve
